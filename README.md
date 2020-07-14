@@ -1,4 +1,7 @@
 # CHESS Project (2018)
 
 ## 1vs1 Chess
-![screensh](./Image/1vs1 start.png)
+![ex_screenshot](./Image/1vs1 start.png)
+
+
+
